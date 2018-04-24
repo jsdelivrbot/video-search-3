@@ -16,5 +16,6 @@ To start from scratch checkout this repo, install dependencies, then start the g
 ```
 
 ### Changelog
+- onInputChange corrections
 - Added lodash and youtube search dependencies.
 - Added live reloading to webpack config.
