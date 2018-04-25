@@ -9,7 +9,7 @@ Disclaimer: Some aspects of YouTube API change over time which can sometimes pro
 ### Basic setup
 To install checkout this repo, and run the following in your terminal.
 ```
-cd ReduxSimpleStarter
+cd video-search
 npm install
 npm start
 ```
