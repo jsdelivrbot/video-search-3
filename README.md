@@ -7,12 +7,19 @@ It contains boilerplate code by Stephen Grider for quickly getting started with 
 Disclaimer: Some aspects of YouTube API change over time which can sometimes produce unexpected browser playback errors. This is normal and is usually fixed when Google deploy a server side patch.
 
 ### Basic setup
-To start from scratch checkout this repo, install dependencies, then start the gulp process with the following:
+To install checkout this repo, and run the following in your terminal.
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+cd ReduxSimpleStarter
+npm install
+npm start
+```
+
+To start from scratch checkout the ReduxSimpleStarter repo, and run the following.
+```
+git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+cd ReduxSimpleStarter
+npm install
+npm start
 ```
 
 ### Changelog
